@@ -287,7 +287,7 @@ class Board(object):
         or there may be no valid attack paths (in which case the function returns None).
 
         Args:
-            source (int): territory_id of source node
+            source (int): territory_ilkfwed of source node
             target (int): territory_id of target node
 
         Returns:
